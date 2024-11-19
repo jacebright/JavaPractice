@@ -1,0 +1,109 @@
+Azul,2,4,family|competitive|multi-player
+Ark Nova,1,4,nature|competitive|multi-player
+Wingspan,1,5,family|nature|competitive|multi-player
+7 Wonders,3,7,family|historical|party
+7 Wonders Duel,2,2,competitive|historical|two-player
+7th Continent,1,4,cooperative|fantasy|multi-player
+Abandon All Artichokes,2,4,family|competitive|multi-player
+Antiquity Quest,2,6,family|competitive|historical|multi-player
+Apples to Apples,3,10,family|party
+Arboretum,2,4,nature|competitive|multi-player
+Around the World in 80 Days,2,4,family|competitive|historical|multi-player
+Back to the Future,2,4,family|historical|cooperative|multi-player
+Battleship,2,2,family|competitive|two-player
+The Bears and the Bees,2,5,family|nature|competitive|multi-player
+Bohnanza: The Duel,2,2,nature|competitive|two-player
+Carcassonne,2,5,family|competitive|multi-player
+Cartographers,1,99,competitive|fantasy|party
+CATAN,3,4,competitive|multi-player
+Chess,2,2,competitive|family|two-player
+Clue,3,6,family|competitive|multi-player
+Clue: Doctor Who,2,6,fantasy|competitive|family|multi-player
+Clue: Harry Potter,3,5,family|competitive|fantasy|multi-player
+Codenames: Duet,2,2,family|cooperative|two-player
+Codenames: Harry Potter,2,10,cooperative|family|fantasy|party
+Couch Skeletons,2,2,competitive|two-player
+Cover Your Assets,3,6,family|competitive|multi-player
+Cover Your Kingdom,2,8,family|competitive|fantasy|party
+Cranium,4,99,family|cooperative|dexterity|party
+Cranium Cadoo,2,99,family|competitive|party
+The Crew: Mission Deep Sea,2,5,cooperative|fantasy|multi-player
+Cryptid,3,5,competitive|fantasy|family|multi-player
+Dice Forge,2,4,family|competitive|fantasy|multi-player
+Disney Villainous,2,5,family|competitive|fantasy|multi-player
+Dominion,2,4,fantasy|competitive|multi-player
+Draftosaurus,2,5,family|nature|competitive|multi-player
+Dragonrealm,2,4,competitive|fantasy|multi-player
+Catch Phrase,2,99,family|competitive|party
+Ex Libris,1,4,competitive|fantasy|multi-player
+Exploding Kittens,2,10,family|competitive|party
+The Fox in the Forest,2,2,nature|cooperative|fantasy|two-player
+The Game of Things,4,15,family|party
+Gnoming A Round,2,7,family|nature|fantasy|competitive|party
+Guillotine,2,5,family|historical|competitive|multi-player
+Herd Mentality,4,15,family|competitive|party
+High Society,2,5,competitive|historical|multi-player
+In a Pickle,2,7,family|competitive|party
+It Came to Pass,3,8,family|competitive|party
+Jenga,2,5,dexterity|multi-player
+Jumanji,2,4,family|fantasy|competitive|multi-player
+Mancala,2,2,competitive|two-player
+Killer Bunnies and the Quest for the Magic Carrot,2,6,competitive|fantasy|family|multi-player
+Killer Bunnies and the Journey to Jupiter,2,6,fantasy|competitive|nature|multi-player
+King Up!,3,6,family|competitive|historical|multi-player
+Lost Ruins of Arnak,1,4,fantasy|competitive|multi-player
+Marvel Villainous,2,4,competitive|fantasy|multi-player
+MicroMacro: Crime City,1,4,family|cooperative|multi-player
+The Mind,2,4,cooperative|multi-player
+Monopoly: Pac-Man,2,4,family|competitive|multi-player
+Monopoly Deal,2,5,family|competitive|multi-player
+Monopoly: Disney Villains,2,4,family|competitive|fantasy|multi-player
+Monopoly: Star Wars,2,4,family|competitive|fantasy|multi-player
+Moose Master,3,8,family|party
+Pass the Pigs,2,5,family|nature|competitive|multi-player
+Phase 10,2,5,family|competitive|multi-player
+Photosynthesis,2,4,nature|competitive|multi-player
+Pit,3,8,family|historical|competitive|party
+Poetry for Neanderthals,3,99,cooperative|party
+Point Salad,2,5,competitive|family|multi-player
+Quacks of Quedlinburg,2,5,family|competitive|fantasy|multi-player
+Quelf,2,8,family|competitive|party
+Qucktionary,2,99,family|party
+Quoridor,2,4,competitive|multi-player
+Raiders of the North Sea,2,4,historical|competitive|multi-player
+Risk,2,5,family|competitive|historical|multi-player
+Rummikub 500,2,4,family|competitive|multi-player
+Sagrada,1,4,competitive|historical|multi-player
+Santorini,2,4,competitive|historical|multi-player
+Scattergories,2,99,family|competitive|party
+Sequence,2,4,competitive|family|multi-player
+Set,1,20,family|competitive|party
+Sherlock Holmes Consulting Detective,1,4,cooperative|fantasy|multi-player
+Singing Bee Game,2,4,party|multi-player
+Skip-Bo,2,6,family|competitive|multi-player
+Skull King,2,6,family|fantasy|competitive|multi-player
+Splendor: Marvel,2,4,fantasy|competitive|multi-player
+Spontuneous,4,10,family|party
+Stop Thief!,1,4,family|historical|competitive|cooperative|multi-player
+Sun Tzu,2,2,historical|competitive|two-player
+Sushi Go!,2,5,family|competitive|multi-player
+Taboo,4,10,cooperative|party
+Taco Cat Goat Cheese Pizza,2,8,competitive|dexterity|party
+Tacocat Spelled Backwards,2,2,competitive|two-player
+Teotihuacan: City of Gods,1,4,historical|competitive|multi-player
+Terraforming Mars,1,5,nature|cooperative|competitive|fantasy|multi-player
+Throw Throw Burrito,3,6,family|competitive|party|multi-player
+Ticket to Ride,2,5,family|historical|competitive|multi-player
+Ticket to Ride: Rails and Sails,2,5,family|competitive|historical|multi-player
+Topiary,2,4,nature|competitive|multi-player
+Tokyo Highway,2,4,historical|competitive|dexterity|multi-player
+Trekking Through History,1,4,family|competitive|historical|multi-player
+Trivial Pursuit: Doctor Who,2,5,competitive|fantasy|multi-player
+Tsuro,2,8,family|competitive|fantasy|party
+Twister,2,4,family|dexterity|multi-player
+UNO,2,10,family|competitive|party
+UNO Attack!,2,10,family|competitive|party
+UNO Flip!,2,10,family|competitive|party
+UNO: Emoji,2,10,family|competitive|party
+Unstable Unicorns,2,8,family|fantasy|competitive|party
+Wits and Wagers,2,8,family|competitive|party

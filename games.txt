@@ -1,0 +1,2 @@
+Azul,2,4,Strategy|Tile Laying|Competitive
+Ark Nova,1,4,Strategy|Animals|Competitive
